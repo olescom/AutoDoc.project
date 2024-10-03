@@ -1,7 +1,7 @@
-# challenge7
+# AutoDoc
 
 ## Description
-create readme file
+This code will create a simply and descriptive readmefile
 
 ## Table of Contents
 - [Installation](#installation)
